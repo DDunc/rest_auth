@@ -1,1 +1,2 @@
-REST API with auth
+# Single Resource REST API with Auth
+
